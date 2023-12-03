@@ -7,7 +7,7 @@
 - Python
 
 # Uso 
-- Encrypter
+- Encrypter<br>
 ![encrypter](img1.png)
-- Decripter
+- Decripter<br>
 ![decryoter](img2.png)
