@@ -8,6 +8,12 @@
 
 # Uso 
 - Encrypter<br>
+```python
+python3 encrypter.py
+```
 ![encrypter](img1.png)
 - Decripter<br>
+```python
+python3 decrypter.py
+```
 ![decryoter](img2.png)
